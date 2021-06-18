@@ -1,1 +1,1 @@
-# jQuery-App
+# jQuery-Application
